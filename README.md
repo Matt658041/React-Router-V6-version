@@ -1,12 +1,6 @@
 # About This Repository
 
-This repository belongs to my "React Router v6 Upgrade Guide" YouTube [video](...).
-
-You can also learn all about React (incl. React Router) in my ["React - The Complete Guide" course](https://acad.link/reactjs).
-
-The code in this repository is organized into different branches that represent different demo apps and code snapshots (used in the video linked above). You find `-v5` and `-v6` branches which represent the code for these two different versions of React Router.
-
-Also check out the official [docs](https://reactrouter.com/) and the official [v5 => v6 upgrade guide](https://reactrouter.com/docs/en/v6/upgrading/v5).
+This is a V6 comparison to the previous git React Routing versions 5
 
 # How To Use
 
